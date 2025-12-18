@@ -1,4 +1,4 @@
-Not just image, 
+Not just an image, 
 ASCII Data - 16
 Encrypted
 !easy
